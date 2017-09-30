@@ -1,4 +1,4 @@
-# Kaggle #Predict the occupancy level of Belgian trains
+# Predict the occupancy level of Belgian trains
 Train occupancy prediction (Kaggle competition) 
 
 Language used - Python
